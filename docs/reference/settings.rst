@@ -104,7 +104,7 @@ because it is what most people have installed already. Features:
 Pgmagick
 --------
 ``'sorl.thumbnail.engines.pgmagick_engine.Engine'``. Pgmagick uses `Graphics
-<http://www.graphicsmagick.org/>`_. Fatures:
+<http://www.graphicsmagick.org/>`_. Features:
 
 * Not easy to install unless on linux, very slow to compile
 * Produces high quality images
