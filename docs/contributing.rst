@@ -59,7 +59,7 @@ Sending pull requests
 
 3. Commit changes. Please update docs, if relevant.
 
-4. Don't forget to run tests to check than nothing breaks.
+4. Don't forget to run tests to check that nothing breaks.
 
 5. Ideally, write your own tests for new feature/bug fix.
 
